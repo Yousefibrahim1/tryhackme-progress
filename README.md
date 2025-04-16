@@ -41,4 +41,3 @@ These rooms complement my coursework in Cybersecurity at Marist University and m
 
 All TryHackMe progress screenshots can be found in the `/Screenshots` directory:
 - `tryhackme-stats.png` (dashboard overview)
-- [Optional: add more screenshots later, like room badges or
